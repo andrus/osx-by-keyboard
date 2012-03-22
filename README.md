@@ -11,7 +11,6 @@ OS X мае беларускую клавіятуру з зялёным сцяг
 
 ```
 mkdir -p ~/Library/Keyboard\ Layouts/ 
-
 ```
 
 * Пакласці Belarusian-translit.icns ды Belarusian-translit.keylayout у гэты фолдэр.

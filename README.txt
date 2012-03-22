@@ -1,14 +1,13 @@
+Інструкцыя па інсталяцыі
+-------------------------
+ 
+1. Стварыць фолдэр у хатнім Library дырэкторыі з імём "Keyboard Layouts". Напрыклад:
 
-(0. Converting .psd -> .gif in Photoshop, then .gif -> .ico online: http://www.favicon.cc)
+ mkdir -p ~/Library/Keyboard\ Layouts/ 
 
-1. Editing .ico online via http://www.favicon.cc
+2. Пакласці Belarusian-translit.icns ды Belarusian-translit.keylayout у гэты фолдэр.
 
-2. Converting .ico to icns using /Developer/Applications/Utilities/Icon Composer.app
+3. Перазапусціць кампутар альбо зрабіць Log Out / Log In
 
-3. Using Ukelele.app to edit the keyboard
+4. Пайсці ў System Preferences > Language & Text > Input Sources. У спісе павінен быць новы элемент "Belarusian - Translit"
 
-4. After any update:
-
-  cp *.icns *.keylayout ~/Library/Keyboard\ Layouts/
-
-  and logout/login

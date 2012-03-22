@@ -5,8 +5,9 @@
 
 3. Using Ukelele.app to edit the keyboard
 
-4. After any update:
+4. After any update do the following and then logout/login:
 
+```
   cp *.icns *.keylayout ~/Library/Keyboard\ Layouts/
-
-  and then logout/login
+```
+ 

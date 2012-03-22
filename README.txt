@@ -1,5 +1,7 @@
 
-1. Converting gif to ico online: http://www.favicon.cc
+(0. Converting .psd -> .gif in Photoshop, then .gif -> .ico online: http://www.favicon.cc)
+
+1. Editing .ico online via http://www.favicon.cc
 
 2. Converting .ico to icns using /Developer/Applications/Utilities/Icon Composer.app
 

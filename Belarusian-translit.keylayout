@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!-- Fri, 24 Feb 2006 Generated from KCHR: "Russian - Phonetic" -->
-<!--Last edited by Ukelele version 2.1.10 on 2012-03-22 at 16:45 (GMT+03:00)-->
+<!--Last edited by Ukelele version 2.1.10 on 2012-03-22 at 17:13 (GMT+03:00)-->
 <!--Created by Ukelele version 2.1.10 on 2012-03-22 at 15:44 (GMT+03:00)-->
 <keyboard group="7" id="19457" name="Belarusian - Translit" maxout="1">
     <layouts>
@@ -186,7 +186,7 @@
             <key code="21" output="$"/>
             <key code="22" output="^"/>
             <key code="23" output="%"/>
-            <key code="24" output="Ъ"/>
+            <key code="24" output="Ё"/>
             <key code="25" output="("/>
             <key code="26" output="&#x0026;"/>
             <key code="27" output="Ь"/>
@@ -196,7 +196,7 @@
             <key code="31" output="О"/>
             <key code="32" output="У"/>
             <key code="33" output="Ю"/>
-            <key code="34" output="И"/>
+            <key code="34" output="І"/>
             <key code="35" output="П"/>
             <key code="36" output="&#x000D;"/>
             <key code="37" output="Л"/>
@@ -212,7 +212,7 @@
             <key code="47" output="&#x003E;"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" output="Щ"/>
+            <key code="50" output="Ў"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>

@@ -16,9 +16,9 @@ mkdir -p ~/Library/Keyboard\ Layouts/
 
 * Перазапусціць кампутар альбо зрабіць Log Out / Log In
 
-* Пайсці ў System Preferences > Language & Text > Input Sources. У спісе павінен быць новы элемент "Belarusian - Translit"
+* Пайсці ў _System Preferences > Language & Text > Input Sources_. У спісе павінен быць новы элемент "Belarusian - Translit"
 
-* Невідавочныя клавішы якія прыдзецца вывучыць:
+* Невідавочныя клавішы якія прыйдзецца вывучыць:
 
 Бел. літара|Сымбал на клавіатуры
 -----------|--------------------

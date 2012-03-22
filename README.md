@@ -9,7 +9,8 @@ OS X мае беларускую клавіятуру з зялёным сцяг
  
 1. Стварыць фолдэр у хатнім Library дырэкторыі з імём "Keyboard Layouts". Напрыклад:
 
-    mkdir -p ~/Library/Keyboard\ Layouts/ 
+```mkdir -p ~/Library/Keyboard\ Layouts/ 
+```
 
 2. Пакласці Belarusian-translit.icns ды Belarusian-translit.keylayout у гэты фолдэр.
 

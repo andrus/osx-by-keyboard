@@ -27,6 +27,6 @@ mkdir -p ~/Library/Keyboard\ Layouts/
 ь|-
 ю|[
 ж|]
-э|\
+э|\\
 ч|h
 
